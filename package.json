@@ -1,0 +1,20 @@
+{
+  "name": "lxlxj5w87q",
+  "description": null,
+  "version": "0.0.39",
+  "dependencies": {
+    "tcomb-form": "0.9.19",
+    "react-select": "1.1.0",
+    "react-dom": "16.2.0",
+    "react": "16.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
